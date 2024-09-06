@@ -1,4 +1,4 @@
-# LAS/FLAS & DPQ
+# GradSort
 
 **Kai Barthel, Nico Hezel, Klaus Jung, and Konstantin Schall**
 
@@ -8,7 +8,7 @@
 
 This is an example implementation of the algorithms from the paper 
 
-***Improved Evaluation and Generation of Grid Layouts using Distance Preservation Quality and Linear Assignment Sorting*** 
+***Creating Sorted Grid Layouts with Gradient-based Optimization*** 
 
 Published in COMPUTER GRAPHICS Forum: ([https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14718](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14718))
 
@@ -23,7 +23,8 @@ In addition, we introduce Fast Linear Assignment Sorting (FLAS) as a new algorit
 ### Distance Preservation Quality (DPQ)
 
 <div align="center">
-    <img src="images/delta_D_plot.png" width="60%" title="" alt="main_pic"></img>
+    <img src="images/delta_D_plot.png" width="60%" title=""
+ alt="main_pic"></img>
 </div>
 
 
