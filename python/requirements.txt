@@ -3,3 +3,4 @@ pillow
 matplotlib
 scipy
 lap
+torch
