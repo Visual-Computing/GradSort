@@ -53,7 +53,7 @@ Please install the python packages listed in [python/requirements.txt](python/re
 pip install -r requirements.txt
 ```
 
-We added the images and feature vectors from the sets described in the paper. You can try them out in this [notebook](LAS_FLAS_DPQ_images.ipynb). Please unzip the data.zip file before running this notebook.
+We added the images and feature vectors from the sets described in the paper. Please unzip the data.zip file before running the notebooks.
 
 ## Reference
 
